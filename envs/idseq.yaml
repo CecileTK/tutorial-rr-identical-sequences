@@ -1,0 +1,12 @@
+name: idseq
+channels:
+  - conda-forge
+  - defaults
+  - bioconda
+dependencies:
+  - tsv-utils
+  - pairsnp
+  - r-base=4.3.3
+  - r-argparse
+  - r-tidyverse
+  - r-glue
